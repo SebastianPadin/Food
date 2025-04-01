@@ -1,10 +1,10 @@
-package pe.edu.vallegrande.FoodCost;
+package pe.edu.vallegrande.foods;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FoodCostApplicationTests {
+class FoodsApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package pe.edu.vallegrande.FoodCost.config;
+package pe.edu.vallegrande.foods.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

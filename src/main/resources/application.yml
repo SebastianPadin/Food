@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: FoodCost  
+    name: foods   
   r2dbc:
     url: r2dbc:pool:postgresql://aws-0-us-east-1.pooler.supabase.com:6543/postgres
     username: postgres.axzbiriaypunthimexpq

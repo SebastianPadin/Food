@@ -1,13 +1,13 @@
-package pe.edu.vallegrande.FoodCost;
+package pe.edu.vallegrande.foods;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FoodCostApplication {
+public class FoodsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FoodCostApplication.class, args);
+		SpringApplication.run(FoodsApplication.class, args);
 	}
 
 }
